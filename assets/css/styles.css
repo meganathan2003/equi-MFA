@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: rgba(13, 26, 45, 255);
+}
+.main {
+    margin-top: 200px;
+    width: 20%;
+    margin-left: 40%;
+    height: 500px;
+    background-color: rgba(21,39,63,255);
+    border-radius: 10px;
+
+}
+.eqi{
+    margin-left: 30px;
+    background-color: rgba(21,39,63,255);
+    border-radius: 10px;
+}
+.eqi img{
+    border-radius: 9px;
+    margin-top: 20px;
+  
+    
+
+}
+.cont h4{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+}
+.cont{
+    color: #f3fcfd;
+    margin-top: 20px;
+ 
+
+}
+.cont p{
+    color:#6982a4;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 16px;
+}
+.later .money span{
+    color: rgba(37,222,226,255);
+    margin-left: 5px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+}
+.days span{
+    color: #869fbe;
+    font-weight: 300;
+    font-size: 15px;
+    margin-left: 50px;
+    font-family: 'Outfit', sans-serif;
+
+}
+.later{
+    display: flex;
+    justify-content: space-between;
+}
+.days{
+    margin-right: 40px;
+}
+hr{
+    width: 86%;
+    margin-right: 70px;
+    margin-top: 20px;
+    border: 1.1px solid #293b53;
+}
+.footer{
+    display: flex;
+    align-items: center;
+}
+.footer p{
+    color:#4d627f ;
+
+}
+.cont4{
+    margin-left: 9px;
+    margin-top: 12px;
+}
+.footer b{
+    color: #cdd6e0;
+}
